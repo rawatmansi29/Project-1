@@ -1,2 +1,4 @@
-# Project-1
-This is my first project 
+# hello
+I am a BCA student 
+I am learning programming 
+This is my first GitHub project 
